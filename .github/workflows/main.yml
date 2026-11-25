@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Agent
         run: |
-          python src/main.py
+         PYTHONPATH=. python src/main.py
