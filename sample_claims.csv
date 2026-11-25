@@ -1,0 +1,5 @@
+claim_id,customer_name,email,required_documents,submitted_documents,due_date,status
+CL001,Arun,arun@gmail.com,Aadhar,Pan Card,Aadhar,2026-11-26,Pending
+CL002,Bala,bala@gmail.com,Aadhar,Pan Card,Aadhar,Pan Card,2026-11-27,Completed
+CL003,Kavi,kavi@gmail.com,Aadhar,Pan Card,Medical Report,Aadhar,2026-11-25,Pending
+CL004,Divya,divya@gmail.com,Aadhar,Pan Card,Aadhar,2026-11-28,Pending
