@@ -27,3 +27,8 @@ missing_documents = check_documents(
 )
 
 print("Missing Documents:", missing_documents)
+if missing_documents:
+    print("Claim Status: Incomplete")
+    print("Please submit the missing documents.")
+else:
+    print("Claim Status: Complete")
