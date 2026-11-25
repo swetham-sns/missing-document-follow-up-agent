@@ -28,3 +28,5 @@ if __name__ == "__main__":
 
     print(subject)
     print(message)
+print("\nReminder Status: Ready to Send")
+print("Email generated successfully!")
